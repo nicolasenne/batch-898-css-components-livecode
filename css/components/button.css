@@ -1,0 +1,14 @@
+.btn-medium {
+  text-decoration: none;
+  color: rgb(54, 208, 216);
+  padding: 8px 24px;
+  border: 1px solid rgb(54, 208, 216);
+  border-radius: 5px;
+  transition: .3s;
+  text-align: center;
+}
+
+.btn-medium:hover {
+  color: #fff;
+  background-color: rgb(54, 208, 216);
+}

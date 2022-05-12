@@ -1,0 +1,53 @@
+.card {
+  background-color: #fff;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+}
+
+.card-info-1 {
+  display: flex;
+  gap: 15px;
+  position: relative;
+}
+
+.heart-icon {
+  position: absolute;
+  color: #EF759F;
+  font-size: 25px;
+  margin: 15px 15px;
+}
+
+.card-info-1 img {
+  width: 50%;
+  height: 200px;
+}
+
+.card-icons {
+  color: #F6B443;
+}
+
+.card-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-info-2 img {
+  width: 100%;
+  height: 200px;
+}
+
+.card-info-3 {
+  display: flex;
+  gap: 15px;
+  width: 100%;
+}
+
+.card-info-3 img {
+  width: 100%;
+  height: 200px;
+}
